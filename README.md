@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Sameer Technical React Ecommerce Webstie Series 
 
 ## Follow the 3 Steps and your good to go. 
@@ -83,3 +84,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Ecommerce
+>>>>>>> c2dd6f77dec486625a3eb60dc122741c2cfd5d23
+
+<<<<<<< HEAD
+React
+=======
+Incoming version
+>>>>>>> other-branch
